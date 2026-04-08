@@ -28,7 +28,6 @@ A C++ OOP project that simulates a robot clearing particles on a map, with a lig
 ├─ graphic.{h,cc}        (drawing primitives)  
 └─ message.{h,cc}        (UI/system messaging)
 
-Update names if they differ in your repo.
 
 ---
 
